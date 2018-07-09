@@ -1,4 +1,4 @@
 # ciudad-zombie
 Juego ciudad zombie
 
-Paso1
+Paso 1
